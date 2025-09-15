@@ -110,6 +110,14 @@ I plan to release new versions as I learn more. In "Future Improvements" I alrea
 better and allow me to practice new knowledge. I am interested in learning some new libraries that could help me with the "Future 
 Improvements" and in other projects, like: SQLAlchemy, pandas, Tkinter, PyQt, matplotlib, Pydantic and many others.
 
+Study Sources:
+
+I think the main source for the knowledge necessary to do this program was the following project/course:
+
+    -dsfassadasdsadas
+
+That give me an iniciation on some knowledges, like Python and SQL, being the main reason to make this project the practice of them.
+
 Acknowledgements:
   Thanks for checking out this project!
   I am open to any constructive feedback and suggestions. You can reach me through the contacts below:
