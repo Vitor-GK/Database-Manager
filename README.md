@@ -121,7 +121,7 @@ skills into practice.
 I also consulted additional videos and other materials beyond the course, which were very helpful, but there are too many to list each 
 one here.
 
-Acknowledgements:
+## Acknowledgements:
   Thanks for checking out this project!
   I am open to any constructive feedback and suggestions. You can reach me through the contacts below:
 
