@@ -22,7 +22,7 @@ try:
     host = input("Enter host (default: localhost): ") or "localhost"
     user = input("Enter user (default: root): ") or "root"
     password = input("Enter password (default: empty): ") or ""
-    db_name = input("Enter database name (default: test): ") or "test"
+    db_name = input("Enter database name (default: Business): ") or "Business"
 except mysql.connector.Error as error:
     print(f"Error conecting to database: {error}")
 
