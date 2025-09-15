@@ -3,7 +3,7 @@ Description: A simple Python program that allows a user to interact with a pre-e
 well as add or delete records and columns. The program uses MySQL cursors for database interaction.
 
 
-Functionalities:
+### Functionalities:
 
   - Show the entire table;
   - Show a specific record;
@@ -14,19 +14,19 @@ Functionalities:
   - Create a new column;
   - Delete a column;
 
-Technologies:
+### Technologies:
 
   - Python
   - MySQL
   - mysql-connector-python
 
-Requirements:
+### Requirements:
 
   - Python >= 3.6
   - MySQL Server
   - mysql-connector-python
 
-Installation:
+### Installation:
 
   **mysql-connector-python**: 
   Install this library using the command `pip install mysql-connector-python` in a terminal.
@@ -42,7 +42,7 @@ Installation:
   https://www.python.org/downloads/ and follow the installation instructions for your operating system.
 
 
-Explanations:
+### Explanations:
 
   **Creation of Database on Mysql Workbech**: 
   After the installation of MySQL and selecting an user, open your code editor and enter the                                                 following code:
@@ -72,7 +72,7 @@ Explanations:
   instructions to connect to the database.
 
 
-  Tips/Notes:
+  ### Tips/Notes:
 
    - Be attentive to your Python version;
    - If you have created passwords or users for MySQL, enter them correctly;
@@ -82,7 +82,7 @@ Explanations:
      it from a different directory may cause errors.
 
 
-Personal Objectives with the Program:
+### Personal Objectives with the Program:
     
   One of the main objectives of making this program is to practice and consolidate the knowledge I have recently acquired in Python and 
   SQL. This program is and will continue to be important for reinforcing and improving everything I have learned so far, such as 
@@ -92,7 +92,7 @@ Personal Objectives with the Program:
   topics necessary to develop this code. For the first version, I am satisfied with the results.
 
 
-Future Improvements and Current Issues:
+### Future Improvements and Current Issues:
 
   **Future Improvements**:
     - Add support for multiple tables;
@@ -110,7 +110,7 @@ I plan to release new versions as I learn more. In "Future Improvements" I alrea
 better and allow me to practice new knowledge. I am interested in learning some new libraries that could help me with the "Future 
 Improvements" and in other projects, like: SQLAlchemy, pandas, Tkinter, PyQt, matplotlib, Pydantic and many others.
 
-Study Sources:
+### Study Sources:
 
 The main source for the knowledge necessary to do this program was the following project/course:
 
