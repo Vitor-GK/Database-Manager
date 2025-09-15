@@ -1,4 +1,4 @@
-# Database-Manager
+#Database-Manager
 Description: A simple Python program that allows a user to interact with a pre-existing database and table for managing employee registrations in a business context. The manager can query the entire table, specific records, or individual columns, as 
 well as add or delete records and columns. The program uses MySQL cursors for database interaction.
 
@@ -112,11 +112,14 @@ Improvements" and in other projects, like: SQLAlchemy, pandas, Tkinter, PyQt, ma
 
 Study Sources:
 
-I think the main source for the knowledge necessary to do this program was the following project/course:
+The main source for the knowledge necessary to do this program was the following project/course:
 
-    -dsfassadasdsadas
+  -Leveling Phase Project Course (Certificate on LinkedIn)
 
-That give me an iniciation on some knowledges, like Python and SQL, being the main reason to make this project the practice of them.
+It provided an introduction to key skills such as Python and SQL, and served as the main reason for creating this project is to put these 
+skills into practice.
+I also consulted additional videos and other materials beyond the course, which were very helpful, but there are too many to list each 
+one here.
 
 Acknowledgements:
   Thanks for checking out this project!
